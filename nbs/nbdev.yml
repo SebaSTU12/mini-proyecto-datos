@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "suma_de_manos"
+  site-url: "https://mochacchin.github.io/suma_de_manos"
+  description: "proyecto para sumar con las manos"
+  repo-branch: main
+  repo-url: "https://github.com/mochacchin/suma_de_manos"
